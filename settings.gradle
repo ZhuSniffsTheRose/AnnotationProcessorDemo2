@@ -1,0 +1,4 @@
+rootProject.name = "AnnotationProcessorDemo"
+include ':app'
+include ':adaptergenerator-annotations'
+include ':adaptergenerator-processor'
